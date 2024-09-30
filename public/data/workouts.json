@@ -1,0 +1,29 @@
+{
+    "workouts": [
+      {
+        "name": "Full Body Workout",
+        "description": "A comprehensive workout targeting all major muscle groups.",
+        "image": "https://picsum.photos/200/300?random=1"
+      },
+      {
+        "name": "Cardio Blast",
+        "description": "High-intensity cardio workout to boost your endurance.",
+        "image": "https://picsum.photos/200/300?random=2"
+      },
+      {
+        "name": "Yoga for Beginners",
+        "description": "A gentle introduction to yoga for relaxation and flexibility.",
+        "image": "https://picsum.photos/200/300?random=3"
+      },
+      {
+        "name": "Strength Training",
+        "description": "Focus on building muscle strength with weights.",
+        "image": "https://picsum.photos/200/300?random=4"
+      },
+      {
+        "name": "HIIT Workout",
+        "description": "High-Intensity Interval Training for maximum calorie burn.",
+        "image": "https://picsum.photos/200/300?random=5"
+      }
+    ]
+  }

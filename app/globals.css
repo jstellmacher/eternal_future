@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Define custom properties for background and foreground */
+:root {
+  --background: #F3F4F6; /* pale-gray */
+  --foreground: #171717; /* default dark foreground */
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0D0F1A; /* midnight-blue for dark mode */
+    --foreground: #ededed; /* light gray for text */
+  }
+}
+
+/* Use the variables for body styling */
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Add utility classes */
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}

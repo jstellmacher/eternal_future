@@ -1,0 +1,17 @@
+[
+  {
+    "level": "Beginner",
+    "name": "Beginner Program",
+    "description": "A simple program for those new to working out."
+  },
+  {
+    "level": "Intermediate",
+    "name": "Intermediate Program",
+    "description": "A balanced program for those with some experience."
+  },
+  {
+    "level": "Hard",
+    "name": "Advanced Program",
+    "description": "A challenging program for seasoned athletes."
+  }
+]
